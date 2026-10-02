@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1">
+    <stop offset="0" stop-color="#0d1424"/>
+    <stop offset="1" stop-color="#101827"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop offset="0" stop-color="#38bdf8"/>
+    <stop offset=".5" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#22d3ee"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+<text x="48" y="54" fill="#f8fafc" font-size="24" font-weight="700" font-family="Segoe UI,Arial">Stack I reach for</text>
+<text x="48" y="82" fill="#94a3b8" font-size="14" font-family="Segoe UI,Arial">A practical backend stack for integrations, automation, data workflows and AI-enabled products.</text>
+
+<!-- Core -->
+<text x="48" y="126" fill="#7dd3fc" font-size="13" font-weight="700" font-family="Segoe UI,Arial">CORE BACKEND</text>
+<g font-family="Segoe UI,Arial" font-size="14" font-weight="600">
+  <rect x="48" y="144" width="120" height="38" rx="12" fill="#10253a" stroke="#264b6b"/>
+  <text x="108" y="168" text-anchor="middle" fill="#dbeafe">Python</text>
+
+  <rect x="180" y="144" width="120" height="38" rx="12" fill="#11372f" stroke="#235848"/>
+  <text x="240" y="168" text-anchor="middle" fill="#ccfbf1">FastAPI</text>
+
+  <rect x="312" y="144" width="140" height="38" rx="12" fill="#1b2f4d" stroke="#36547b"/>
+  <text x="382" y="168" text-anchor="middle" fill="#dbeafe">PostgreSQL</text>
+
+  <rect x="464" y="144" width="122" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="525" y="168" text-anchor="middle" fill="#e2e8f0">REST APIs</text>
+
+  <rect x="598" y="144" width="116" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="656" y="168" text-anchor="middle" fill="#e2e8f0">Webhooks</text>
+</g>
+
+<!-- Data + automation -->
+<text x="48" y="221" fill="#c4b5fd" font-size="13" font-weight="700" font-family="Segoe UI,Arial">DATA &amp; AUTOMATION</text>
+<g font-family="Segoe UI,Arial" font-size="14" font-weight="600">
+  <rect x="48" y="239" width="108" height="38" rx="12" fill="#251c48" stroke="#4b3a86"/>
+  <text x="102" y="263" text-anchor="middle" fill="#ede9fe">pandas</text>
+
+  <rect x="168" y="239" width="134" height="38" rx="12" fill="#11291f" stroke="#24503a"/>
+  <text x="235" y="263" text-anchor="middle" fill="#dcfce7">OpenAI API</text>
+
+  <rect x="314" y="239" width="114" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="371" y="263" text-anchor="middle" fill="#e2e8f0">Scraping</text>
+
+  <rect x="440" y="239" width="138" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="509" y="263" text-anchor="middle" fill="#e2e8f0">Scheduled jobs</text>
+
+  <rect x="590" y="239" width="156" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="668" y="263" text-anchor="middle" fill="#e2e8f0">SaaS integrations</text>
+</g>
+
+<!-- Delivery -->
+<text x="785" y="126" fill="#86efac" font-size="13" font-weight="700" font-family="Segoe UI,Arial">DELIVERY</text>
+<g font-family="Segoe UI,Arial" font-size="14" font-weight="600">
+  <rect x="785" y="144" width="100" height="38" rx="12" fill="#10283a" stroke="#26506e"/>
+  <text x="835" y="168" text-anchor="middle" fill="#dbeafe">pytest</text>
+
+  <rect x="897" y="144" width="100" height="38" rx="12" fill="#10283a" stroke="#26506e"/>
+  <text x="947" y="168" text-anchor="middle" fill="#dbeafe">Docker</text>
+
+  <rect x="1009" y="144" width="92" height="38" rx="12" fill="#2b1d18" stroke="#5b382e"/>
+  <text x="1055" y="168" text-anchor="middle" fill="#fee2e2">Git</text>
+
+  <rect x="785" y="196" width="136" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="853" y="220" text-anchor="middle" fill="#e2e8f0">Validation</text>
+
+  <rect x="933" y="196" width="168" height="38" rx="12" fill="#171d2a" stroke="#323d53"/>
+  <text x="1017" y="220" text-anchor="middle" fill="#e2e8f0">Error handling</text>
+</g>
+
+<rect x="785" y="257" width="316" height="2" rx="1" fill="url(#line)" opacity=".8"/>
+<text x="785" y="286" fill="#7f8ea3" font-size="12" font-family="Segoe UI,Arial">Also: SQL · JSON/CSV · lightweight web surfaces · existing codebases</text>
+</svg>

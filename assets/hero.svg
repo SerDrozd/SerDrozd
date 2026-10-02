@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Serhii Drozdov - Python Backend, Automation and AI Integrations">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="52%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b132b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1100" cy="30" r="150" fill="#7c3aed" opacity=".08"/>
+  <circle cx="1030" cy="330" r="180" fill="#22d3ee" opacity=".06"/>
+  <rect x="48" y="42" width="112" height="28" rx="14" fill="#12233b" stroke="#2b4c70"/>
+  <circle cx="66" cy="56" r="5" fill="#22c55e"/>
+  <text x="78" y="61" fill="#c9d1d9" font-size="13" font-family="Segoe UI, Arial, sans-serif">AVAILABLE</text>
+  <text x="48" y="128" fill="#f8fafc" font-size="48" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Serhii Drozdov</text>
+  <text x="48" y="171" fill="#a5b4fc" font-size="24" font-family="Segoe UI, Arial, sans-serif">Python Backend • Automation • AI Integrations</text>
+  <text x="48" y="220" fill="#cbd5e1" font-size="19" font-family="Segoe UI, Arial, sans-serif">I turn messy manual workflows into reliable software.</text>
+  <text x="48" y="253" fill="#94a3b8" font-size="16" font-family="Segoe UI, Arial, sans-serif">FastAPI · PostgreSQL · REST APIs · Webhooks · Data · OpenAI/LLM</text>
+  <rect x="48" y="288" width="330" height="34" rx="17" fill="url(#accent)" opacity=".16"/>
+  <text x="68" y="310" fill="#e2e8f0" font-size="14" font-family="Segoe UI, Arial, sans-serif">remote • contract • freelance • paid milestones</text>
+  <g transform="translate(720 55)">
+    <rect width="430" height="250" rx="24" fill="#0a0f1c" stroke="#273449"/>
+    <circle cx="28" cy="26" r="5" fill="#ff5f56"/>
+    <circle cx="46" cy="26" r="5" fill="#ffbd2e"/>
+    <circle cx="64" cy="26" r="5" fill="#27c93f"/>
+    <text x="88" y="31" fill="#64748b" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">workflow.py</text>
+    <text x="28" y="78" fill="#64748b" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">01</text>
+    <text x="62" y="78" fill="#e2e8f0" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">manual_work</text>
+    <text x="220" y="78" fill="#64748b" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">→</text>
+    <text x="252" y="78" fill="#f59e0b" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">find_bottleneck()</text>
+    <text x="28" y="118" fill="#64748b" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">02</text>
+    <text x="62" y="118" fill="#e2e8f0" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">systems</text>
+    <text x="220" y="118" fill="#64748b" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">→</text>
+    <text x="252" y="118" fill="#38bdf8" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">connect_apis()</text>
+    <text x="28" y="158" fill="#64748b" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">03</text>
+    <text x="62" y="158" fill="#e2e8f0" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">workflow</text>
+    <text x="220" y="158" fill="#64748b" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">→</text>
+    <text x="252" y="158" fill="#a78bfa" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">automate()</text>
+    <text x="28" y="198" fill="#64748b" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">04</text>
+    <text x="62" y="198" fill="#e2e8f0" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">result</text>
+    <text x="220" y="198" fill="#64748b" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">→</text>
+    <text x="252" y="198" fill="#4ade80" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">ship()</text>
+    <rect x="28" y="220" width="372" height="2" rx="1" fill="url(#accent)" filter="url(#glow)" opacity=".8"/>
+  </g>
+</svg>

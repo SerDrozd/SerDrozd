@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230">
+<rect width="1200" height="230" rx="26" fill="#0c1321"/>
+<text x="48" y="48" fill="#f8fafc" font-size="23" font-weight="700" font-family="Segoe UI,Arial">How I work</text>
+<text x="48" y="76" fill="#8fa0b5" font-size="14" font-family="Segoe UI,Arial">Small first milestone. Working software. Expand only when it earns the next step.</text>
+
+<g font-family="Segoe UI,Arial">
+  <rect x="48" y="110" width="150" height="62" rx="14" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="123" y="136" text-anchor="middle" fill="#cbd5e1" font-size="14" font-weight="700">Understand</text>
+  <text x="123" y="156" text-anchor="middle" fill="#7f8ea3" font-size="12">the process</text>
+
+  <text x="215" y="146" fill="#4f6a88" font-size="24">→</text>
+
+  <rect x="250" y="110" width="150" height="62" rx="14" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="325" y="136" text-anchor="middle" fill="#cbd5e1" font-size="14" font-weight="700">Find</text>
+  <text x="325" y="156" text-anchor="middle" fill="#7f8ea3" font-size="12">the bottleneck</text>
+
+  <text x="417" y="146" fill="#4f6a88" font-size="24">→</text>
+
+  <rect x="452" y="110" width="150" height="62" rx="14" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="527" y="136" text-anchor="middle" fill="#cbd5e1" font-size="14" font-weight="700">Build</text>
+  <text x="527" y="156" text-anchor="middle" fill="#7f8ea3" font-size="12">the smallest fix</text>
+
+  <text x="619" y="146" fill="#4f6a88" font-size="24">→</text>
+
+  <rect x="654" y="110" width="150" height="62" rx="14" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="729" y="136" text-anchor="middle" fill="#cbd5e1" font-size="14" font-weight="700">Validate</text>
+  <text x="729" y="156" text-anchor="middle" fill="#7f8ea3" font-size="12">tests + errors</text>
+
+  <text x="821" y="146" fill="#4f6a88" font-size="24">→</text>
+
+  <rect x="856" y="110" width="150" height="62" rx="14" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="931" y="136" text-anchor="middle" fill="#cbd5e1" font-size="14" font-weight="700">Ship</text>
+  <text x="931" y="156" text-anchor="middle" fill="#7f8ea3" font-size="12">working milestone</text>
+
+  <text x="1023" y="146" fill="#4f6a88" font-size="24">→</text>
+
+  <rect x="1058" y="110" width="94" height="62" rx="14" fill="#123628" stroke="#24553f"/>
+  <text x="1105" y="136" text-anchor="middle" fill="#86efac" font-size="14" font-weight="700">Improve</text>
+  <text x="1105" y="156" text-anchor="middle" fill="#65a982" font-size="12">if useful</text>
+</g>
+</svg>

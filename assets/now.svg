@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270">
+<defs>
+  <linearGradient id="g" x1="0" x2="1"><stop stop-color="#111827"/><stop offset="1" stop-color="#0b1524"/></linearGradient>
+</defs>
+<rect width="1200" height="270" rx="28" fill="url(#g)"/>
+<rect x="48" y="38" width="120" height="28" rx="14" fill="#102d47" stroke="#285474"/>
+<circle cx="65" cy="52" r="5" fill="#22c55e"/>
+<text x="78" y="57" fill="#cbd5e1" font-size="12" font-family="Segoe UI,Arial">BUILDING NOW</text>
+
+<text x="48" y="112" fill="#f8fafc" font-size="32" font-weight="700" font-family="Segoe UI,Arial">Lead Radar</text>
+<text x="48" y="145" fill="#a5b4fc" font-size="17" font-family="Segoe UI,Arial">A Python system for finding fresh technical pain signals before they become crowded job posts.</text>
+<text x="48" y="180" fill="#94a3b8" font-size="14" font-family="Segoe UI,Arial">Collecting public signals → filtering noise → deduplication/scoring → Telegram alerts.</text>
+<text x="48" y="211" fill="#7f8ea3" font-size="13" font-family="Segoe UI,Arial">Current work: source quality, relevance rules, signal scoring and cleaner alert delivery.</text>
+
+<g transform="translate(740 58)" font-family="Segoe UI,Arial">
+  <rect x="0" y="0" width="120" height="48" rx="13" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="60" y="29" text-anchor="middle" fill="#cbd5e1" font-size="13">public sources</text>
+  <text x="134" y="30" fill="#587394" font-size="22">→</text>
+  <rect x="168" y="0" width="108" height="48" rx="13" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="222" y="29" text-anchor="middle" fill="#cbd5e1" font-size="13">collect</text>
+  <text x="290" y="30" fill="#587394" font-size="22">→</text>
+  <rect x="324" y="0" width="108" height="48" rx="13" fill="#111c2d" stroke="#2b3b53"/>
+  <text x="378" y="29" text-anchor="middle" fill="#cbd5e1" font-size="13">score</text>
+
+  <text x="187" y="93" fill="#587394" font-size="22">↓</text>
+  <rect x="125" y="112" width="184" height="54" rx="14" fill="#123628" stroke="#24553f"/>
+  <text x="217" y="135" text-anchor="middle" fill="#86efac" font-size="14" font-weight="700">Telegram alert</text>
+  <text x="217" y="153" text-anchor="middle" fill="#65a982" font-size="11">fresh · relevant · actionable</text>
+</g>
+</svg>

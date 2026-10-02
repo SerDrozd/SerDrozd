@@ -1,17 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286">
 <defs>
   <linearGradient id="bg" x1="0" x2="1">
     <stop offset="0" stop-color="#0c1423"/>
     <stop offset="1" stop-color="#0f1b2e"/>
   </linearGradient>
-  <linearGradient id="accent" x1="0" x2="1">
-    <stop offset="0" stop-color="#38bdf8"/>
-    <stop offset=".52" stop-color="#8b5cf6"/>
-    <stop offset="1" stop-color="#22d3ee"/>
-  </linearGradient>
 </defs>
-<rect width="1200" height="300" rx="28" fill="url(#bg)"/>
-
+<rect width="1200" height="286" rx="28" fill="url(#bg)"/>
 <rect x="48" y="38" width="124" height="28" rx="14" fill="#113a2b" stroke="#246143"/>
 <circle cx="65" cy="52" r="5" fill="#22c55e"/>
 <text x="78" y="57" fill="#bbf7d0" font-size="12" font-family="Segoe UI,Arial">AVAILABLE NOW</text>
@@ -19,7 +13,6 @@
 <text x="48" y="116" fill="#f8fafc" font-size="30" font-weight="700" font-family="Segoe UI,Arial">Have a backend, API or automation problem?</text>
 <text x="48" y="149" fill="#aebbc9" font-size="16" font-family="Segoe UI,Arial">Send me the rough task and the result you need. I’ll tell you quickly if it’s a fit.</text>
 
-<!-- flow -->
 <g font-family="Segoe UI,Arial">
   <rect x="48" y="188" width="178" height="44" rx="13" fill="#111c2d" stroke="#2b3b53"/>
   <text x="137" y="215" text-anchor="middle" fill="#cbd5e1" font-size="13" font-weight="700">rough task</text>
@@ -31,13 +24,10 @@
   <text x="595" y="215" text-anchor="middle" fill="#86efac" font-size="13" font-weight="700">small paid milestone</text>
 </g>
 
-<text x="48" y="266" fill="#7f8ea3" font-size="13" font-family="Segoe UI,Arial">Freelance · contract · subcontracting · agency overflow · fixed-scope projects · longer backend engagements</text>
-
-<!-- contact side -->
-<rect x="790" y="65" width="338" height="156" rx="18" fill="#0b111d" stroke="#26364d"/>
-<text x="818" y="101" fill="#e2e8f0" font-size="15" font-weight="700" font-family="Segoe UI,Arial">Serhii Drozdov</text>
-<text x="818" y="127" fill="#94a3b8" font-size="13" font-family="Segoe UI,Arial">Ukraine · Remote · European-hours friendly</text>
-<rect x="818" y="151" width="282" height="2" fill="url(#accent)" opacity=".75"/>
-<text x="818" y="181" fill="#7dd3fc" font-size="13" font-family="Segoe UI,Arial">Email · LinkedIn · Contra</text>
-<text x="818" y="205" fill="#64748b" font-size="12" font-family="Segoe UI,Arial">Links below this card</text>
+<rect x="792" y="68" width="336" height="158" rx="18" fill="#0b111d" stroke="#26364d"/>
+<text x="820" y="106" fill="#e2e8f0" font-size="16" font-weight="700" font-family="Segoe UI,Arial">Serhii Drozdov</text>
+<text x="820" y="134" fill="#94a3b8" font-size="13" font-family="Segoe UI,Arial">Python Backend · Automation · AI Integrations</text>
+<text x="820" y="159" fill="#94a3b8" font-size="13" font-family="Segoe UI,Arial">Ukraine · Remote · European-hours friendly</text>
+<rect x="820" y="183" width="278" height="2" fill="#38bdf8" opacity=".65"/>
+<text x="820" y="211" fill="#7f8ea3" font-size="12" font-family="Segoe UI,Arial">Freelance · contract · subcontracting · agency overflow</text>
 </svg>
